@@ -1,0 +1,3 @@
+# lecture0
+I Should rename this but ...
+This is a simple Go login and register web page
